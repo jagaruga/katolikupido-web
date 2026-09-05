@@ -10,7 +10,7 @@ export default function PrivacyPolicy() {
           "Katolikupido runs on the virtues of honesty, modesty and chastity."
         </p>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}><strong>Effective Date:</strong> September 1, 2026</p>
-        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>This Privacy Policy describes how Katolikupido, operated by <strong>Jan Paolo S. Santiago</strong>, collects, uses, and protects your personal information when you use the Katolikupido mobile application.</p>
+        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>This Privacy Policy describes how Katolikupido, operated by <strong>JP Santiago</strong>, collects, uses, and protects your personal information when you use the Katolikupido mobile application.</p>
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>1. Information We Collect</h2>
         <ul style={{ color: '#c8b8a8', paddingLeft: '20px', marginBottom: '14px' }}>
@@ -47,12 +47,12 @@ export default function PrivacyPolicy() {
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>7. Contact Us</h2>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>
-          <strong>Jan Paolo S. Santiago</strong><br />
+          <strong>JP Santiago</strong><br />
           Email: <a href="mailto:thejayarugashow@gmail.com" style={{ color: '#C9A84C' }}>thejayarugashow@gmail.com</a>
         </p>
       </div>
       <footer style={{ textAlign: 'center', color: '#555', fontSize: '0.8rem', padding: '24px', borderTop: '1px solid #3a1a1a' }}>
-        © 2026 Katolikupido by Jan Paolo S. Santiago. All rights reserved. ✝ Love Rooted in Faith
+        © 2026 Katolikupido by JP Santiago. All rights reserved. ✝ Love Rooted in Faith
       </footer>
     </main>
   );

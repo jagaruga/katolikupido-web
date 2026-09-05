@@ -10,7 +10,7 @@ export default function TermsOfService() {
           "Katolikupido runs on the virtues of honesty, modesty and chastity."
         </p>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}><strong>Effective Date:</strong> September 1, 2026</p>
-        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>These Terms of Service govern your use of the Katolikupido mobile application, operated by <strong>Jan Paolo S. Santiago</strong>. By creating an account or using the App, you agree to be bound by these Terms.</p>
+        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>These Terms of Service govern your use of the Katolikupido mobile application, operated by <strong>JP Santiago</strong>. By creating an account or using the App, you agree to be bound by these Terms.</p>
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>1. About Katolikupido</h2>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>Katolikupido is a Catholic dating app designed to help Filipino Catholics find meaningful, faith-centered relationships. <strong>Katolikupido runs on the virtues of honesty, modesty and chastity.</strong> All users are expected to uphold these values in their interactions.</p>
@@ -43,7 +43,7 @@ export default function TermsOfService() {
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>The App is provided "as is" without warranties of any kind. We do not guarantee that use of the App will result in a match or relationship. We are not responsible for the conduct of any user on or off the App.</p>
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>7. Limitation of Liability</h2>
-        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>To the fullest extent permitted by law, Jan Paolo S. Santiago shall not be liable for any indirect, incidental, or consequential damages arising from your use of the App.</p>
+        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>To the fullest extent permitted by law, JP Santiago shall not be liable for any indirect, incidental, or consequential damages arising from your use of the App.</p>
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>8. Privacy</h2>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>Your use of the App is also governed by our <a href="/privacy" style={{ color: '#C9A84C' }}>Privacy Policy</a>.</p>
@@ -53,12 +53,12 @@ export default function TermsOfService() {
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>10. Contact Us</h2>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>
-          <strong>Jan Paolo S. Santiago</strong><br />
+          <strong>JP Santiago</strong><br />
           Email: <a href="mailto:thejayarugashow@gmail.com" style={{ color: '#C9A84C' }}>thejayarugashow@gmail.com</a>
         </p>
       </div>
       <footer style={{ textAlign: 'center', color: '#555', fontSize: '0.8rem', padding: '24px', borderTop: '1px solid #3a1a1a' }}>
-        © 2026 Katolikupido by Jan Paolo S. Santiago. All rights reserved. ✝ Love Rooted in Faith
+        © 2026 Katolikupido by JP Santiago. All rights reserved. ✝ Love Rooted in Faith
       </footer>
     </main>
   );
