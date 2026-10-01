@@ -10,6 +10,7 @@ export default function TermsOfService() {
           "Katolikupido runs on the virtues of honesty, modesty and chastity."
         </p>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}><strong>Effective Date:</strong> September 1, 2026</p>
+        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}><strong>Last Updated:</strong> October 2, 2026</p>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>These Terms of Service govern your use of the Katolikupido mobile application, operated by <strong>JP Santiago</strong>. By creating an account or using the App, you agree to be bound by these Terms.</p>
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>1. About Katolikupido</h2>
@@ -35,9 +36,10 @@ export default function TermsOfService() {
           <li>Using the App for any illegal purpose</li>
           <li>Impersonating another person or entity</li>
         </ul>
+        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>We may remove content, suspend, or permanently terminate any account that we believe violates these Terms, with or without prior notice.</p>
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>5. Account Deletion</h2>
-        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>You may delete your account at any time through the Profile settings in the App. Upon deletion, all your personal data, matches, and messages will be permanently removed. This action is irreversible.</p>
+        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>You may delete your account at any time through the Profile settings in the App, or without the App by following the instructions on our <a href="/delete-account" style={{ color: '#C9A84C' }}>account deletion page</a>. Upon deletion, all your personal data, matches, and messages will be permanently removed. This action is irreversible.</p>
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>6. Disclaimer of Warranties</h2>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>The App is provided "as is" without warranties of any kind. We do not guarantee that use of the App will result in a match or relationship. We are not responsible for the conduct of any user on or off the App.</p>
@@ -54,7 +56,7 @@ export default function TermsOfService() {
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>10. Contact Us</h2>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>
           <strong>JP Santiago</strong><br />
-          Email: <a href="mailto:thejayarugashow@gmail.com" style={{ color: '#C9A84C' }}>thejayarugashow@gmail.com</a>
+          Email: <a href="mailto:support@katolikupido.com" style={{ color: '#C9A84C' }}>support@katolikupido.com</a>
         </p>
       </div>
       <footer style={{ textAlign: 'center', color: '#555', fontSize: '0.8rem', padding: '24px', borderTop: '1px solid #3a1a1a' }}>
