@@ -59,7 +59,7 @@ export default function PrivacyPolicy() {
           <li>In the App: open your Profile, scroll to the bottom, tap DELETE ACCOUNT, and confirm.</li>
           <li>Without the App: visit <a href="/delete-account" style={{ color: '#C9A84C' }}>katolikupido.com/delete-account</a>, or email <a href="mailto:support@katolikupido.com?subject=Delete%20my%20account" style={{ color: '#C9A84C' }}>support@katolikupido.com</a> from the email address you registered with. We will process your request within 30 days.</li>
         </ul>
-        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>Deleting your account permanently removes your profile, photos, messages, matches, swipes, reports connected to you, and your login. This cannot be undone. If you unmatch with someone, your conversation with them is permanently deleted for both of you.</p>
+        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>Deleting your account permanently removes your profile, photos, messages, matches, swipes, reports connected to you, and your login. This cannot be undone. If you unmatch with someone, your conversation with them is permanently deleted for both of you. Emails you send to support@katolikupido.com, such as screenshots for a report, are kept only as long as needed to review the report or request, and you can ask us to delete them.</p>
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>7. Children's Privacy</h2>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>Katolikupido is intended for users 18 years of age or older. We do not knowingly collect personal information from minors.</p>

@@ -54,6 +54,17 @@ export default function DeleteAccount() {
           If you want to use Katolikupido again later, you will need to create a new account.
         </p>
 
+        <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>What We Keep</h2>
+        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>
+          Nothing from your profile, photos, messages, matches, or login is kept after your account is deleted.
+          We do not keep separate backups of user data at this time.
+        </p>
+        <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>
+          Emails you send to <a href="mailto:support@katolikupido.com" style={{ color: '#C9A84C' }}>support@katolikupido.com</a>, such as
+          screenshots for a report or a deletion request, are separate from your account. We keep them only as long as needed to review
+          the report or request, and you can ask us to delete them.
+        </p>
+
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>Questions</h2>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>
           Write to <a href="mailto:support@katolikupido.com" style={{ color: '#C9A84C' }}>support@katolikupido.com</a>.
