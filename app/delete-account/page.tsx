@@ -56,7 +56,9 @@ export default function DeleteAccount() {
 
         <h2 style={{ color: '#C9A84C', margin: '36px 0 10px', textTransform: 'uppercase', letterSpacing: '1px' }}>What We Keep</h2>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>
-          Nothing from your profile, photos, messages, matches, or login is kept after your account is deleted.
+          Nothing from your profile, photos, messages, matches, or login is kept after your account is deleted, with one exception:
+          we may keep information that the law requires us to keep, or that law enforcement requests for an investigation of a serious
+          safety concern, such as child sexual abuse and exploitation.
           We do not keep separate backups of user data at this time.
         </p>
         <p style={{ color: '#c8b8a8', marginBottom: '14px' }}>
